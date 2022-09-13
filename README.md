@@ -1,0 +1,2 @@
+# Hoisteing
+ js hoisting
